@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻 About Me
 
-* 📍 I'm based in Sweden & India
+* 📍 I'm based in USA & India
 * 💻 I'm passionate about Artificial Intelligence, Machine Learning, Deep learning and Data Science in general.
-* 🎓 I'm Master's Student at [Blekinge Institute of Technology](https://www.bth.se/).
+* 🎓 I'm Master's Student at [San Jośe State University]((https://www.sjsu.edu/)).
 <!-- * 📝 I  enjoy writing AI-related articles on my blog [My Brain Cells](http://mybraincells.com/). ---->
 *  🗣 I'm always up for interesting tech talk.
 
